@@ -1,0 +1,8 @@
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.MainForm.resources
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\bin\Debug\SodaMachine.exe
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\bin\Debug\SodaMachine.pdb
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.exe
+C:\Documents and Settings\User\Мои документы\SharpDevelop Projects\SodaMachine\SodaMachine\obj\Debug\SodaMachine.pdb
